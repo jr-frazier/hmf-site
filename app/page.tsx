@@ -8,7 +8,7 @@ export default function Home() {
             <ConfettiButton />
         </div>
         <div>
-            <h1 className="font-extrabold text-4xl">Welcome to Harper's Site!!!</h1>
+            <h1 className="font-extrabold  text-2xl md:text-4xl">Welcome to Harper's Site!!!</h1>
         </div>
         <Image
             src="/img_1.png"
@@ -18,7 +18,7 @@ export default function Home() {
         />
 
 
-        <div className="px-50 pt-20 flex flex-col gap-2">
+        <div className="px-10 md:px-50 sm:px-30 pt-20 flex flex-col gap-2">
             <h2 className="font-bold text-3xl">Hey! 👋</h2>
             <p className="leading-[1.75] font-medium text-xl">I’m a 4th grader who LOVES watching YouTube, especially after school or on the weekends. Some of my favorite YouTubers are Aphmau (her Minecraft roleplays are the best!), CMH, Little Mind XD, and GLITCH. I like their videos because they’re really funny, creative, and full of cool adventures. I also really enjoy playing Roblox and Minecraft—they’re my go-to games! In Roblox, I like exploring different worlds and playing games with my friends, and in Minecraft, I love building houses, going on quests, and sometimes just running around in creative mode.
 
